@@ -11,7 +11,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public int suma (int a, int b){
-        return a + b;
-    }
 }
